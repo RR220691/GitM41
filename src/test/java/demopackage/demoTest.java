@@ -7,6 +7,7 @@ public class demoTest {
 	public void dhoni()
 	{
 		System.out.println("dhoni");
+		System.out.println("rohit");
 	}
 
 }
